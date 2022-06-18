@@ -1,0 +1,13 @@
+font{
+    color: blue;
+    font-size: 26;
+}
+button{
+    width: 150;
+    color: red;
+    background-color: #990099;
+}
+span{
+    color: magenta;
+    font-size: 90;
+}
